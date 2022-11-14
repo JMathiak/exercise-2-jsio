@@ -7,6 +7,14 @@
     .w-800{
         width: 800px;
     }
+
+    .border-b-half{
+        border-bottom: .5px solid;
+    }
+
+    .font-550{
+        font-weight: 550;
+    }
 }
 
 @layer base{
