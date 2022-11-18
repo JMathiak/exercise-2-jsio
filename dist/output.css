@@ -567,6 +567,10 @@ html{
   margin-right: 1.5rem;
 }
 
+.mr-7 {
+  margin-right: 1.75rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
