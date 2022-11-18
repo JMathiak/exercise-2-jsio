@@ -517,8 +517,9 @@ html{
   --tw-backdrop-sepia:  ;
 }
 
-.m-8 {
-  margin: 2rem;
+.my-7 {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
 }
 
 .my-4 {
@@ -526,16 +527,16 @@ html{
   margin-bottom: 1rem;
 }
 
-.mb-9 {
-  margin-bottom: 2.25rem;
+.mb-8 {
+  margin-bottom: 2rem;
 }
 
 .-mr-2 {
   margin-right: -0.5rem;
 }
 
-.mb-8 {
-  margin-bottom: 2rem;
+.mb-7 {
+  margin-bottom: 1.75rem;
 }
 
 .mr-5 {
@@ -556,6 +557,14 @@ html{
 
 .mr-4 {
   margin-right: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.mr-6 {
+  margin-right: 1.5rem;
 }
 
 .box-border {
@@ -594,6 +603,18 @@ html{
   width: 11rem;
 }
 
+.w-1\/4 {
+  width: 25%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+
 .columns-3 {
   -moz-columns: 3;
        columns: 3;
@@ -605,6 +626,10 @@ html{
 
 .items-center {
   align-items: center;
+}
+
+.justify-end {
+  justify-content: flex-end;
 }
 
 .justify-center {
@@ -705,32 +730,24 @@ html{
   padding-bottom: 1.5rem;
 }
 
-.pr-10 {
-  padding-right: 2.5rem;
+.pr-9 {
+  padding-right: 2.25rem;
 }
 
 .pt-1 {
   padding-top: 0.25rem;
 }
 
+.pt-5 {
+  padding-top: 1.25rem;
+}
+
+.pr-10 {
+  padding-right: 2.5rem;
+}
+
 .pb-5 {
   padding-bottom: 1.25rem;
-}
-
-.pb-10 {
-  padding-bottom: 2.5rem;
-}
-
-.pl-9 {
-  padding-left: 2.25rem;
-}
-
-.pr-16 {
-  padding-right: 4rem;
-}
-
-.pt-4 {
-  padding-top: 1rem;
 }
 
 .text-5xl {
